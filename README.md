@@ -1,7 +1,7 @@
 # README
 
-Repositório do projeto BehaviorXplore, contendo dados e códigos utilizados no artigo.
+BehaviorXplore project repository, containing data and codes used in the article.
 
-Os códigos se encontram em arquivos jupyter notebook na pasta Code, os quais realizam a limpeza dos dados do conjunto PEMSd3, e fazem a geração dos dados de treinamento e treinamento dos modelos.
+The codes are found in Jupyter notebook files in the Code folder, which clean the data from the PEMSd3 set, and generate the training data and train the models.
 
-Os dados utilizados se encontram na pasta Data, a qual contém diversas subpastas detalhando a geração e característica de todos os dados sintéticos.
+The data used is found in the Data folder, which contains several subfolders detailing the generation and characteristics of all synthetic data.
