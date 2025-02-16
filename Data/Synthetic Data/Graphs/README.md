@@ -1,0 +1,1 @@
+In all tests that used a synthetic matrix (time series), a fully disjointed graph (fully_disjointed.npy file) was also used together with this matrix to train the GNN model, given that the spatial sensitivity test and other spatial characteristics tests showed little impact of the characteristics of the graph used.
